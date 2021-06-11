@@ -1,0 +1,1 @@
+This is a project for alx africa 12 months programme which contains various shell basics commands in form of scripts
